@@ -3,7 +3,7 @@ Contributors: Cople
 Tags: smiley, smilies, emoji, emoticon, emoticons, TinyMCE, editor
 Requires at least: 4.2
 Tested up to: 4.2
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -24,6 +24,9 @@ Add Smiley Button to TinyMCE.
 1. The WordPress editor after installing this plugin.
 
 == Changelog ==
+
+= 1.0.1 =
+* Support different smiley sizes.
 
 = 1.0 =
 * First version.

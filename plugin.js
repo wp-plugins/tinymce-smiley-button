@@ -3,7 +3,7 @@
         if (/\.([^.]+)$/.test(smiley)) {
             return _smileySettings.src_url + smiley;
         } else {
-            return ''.concat(twemoji.base, twemoji.size, '/', twemoji.convert.toCodePoint(smiley), twemoji.ext);
+            return ''.concat(twemoji.base, '72x72'/*twemoji.size*/, '/', twemoji.convert.toCodePoint(smiley), twemoji.ext);
         };
     };
 

@@ -3,7 +3,7 @@
  * Plugin Name: TinyMCE Smiley Button
  * Plugin URI: http://wordpress.org/extend/plugins/tinymce-smiley-button/
  * Description: Add Smiley Button to TinyMCE.
- * Version: 1.0
+ * Version: 1.0.1
  * Author: 小影
  * Author URI: http://c7sky.com/
  */
