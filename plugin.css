@@ -1,0 +1,17 @@
+i.mce-i-smiley {
+	background: url(../../../wp-includes/images/smilies/simple-smile.png) no-repeat 50% 50%;
+	-webkit-background-size: contain;
+	background-size: contain;
+}
+
+.mce-smily .mce-grid a {
+	border: 0;
+	padding: 3px;
+	-webkit-border-radius: 1px;
+	-moz-border-radius: 1px;
+	border-radius: 1px;
+}
+
+.mce-smily .mce-grid a:hover {
+	background: #b4b9be;
+}
