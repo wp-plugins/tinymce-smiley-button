@@ -46,7 +46,7 @@
 
                     if (linkElm) {
                         editor.insertContent(
-                            ' ' + linkElm.getAttribute('data-mce-alt') + ' '
+                            '&nbsp;' + linkElm.getAttribute('data-mce-alt') + '&nbsp;'
                         );
 
                         this.hide();
